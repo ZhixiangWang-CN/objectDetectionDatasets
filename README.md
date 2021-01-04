@@ -49,3 +49,5 @@ voc_to_coco_v2.py使用.
                 assert cnt > 0
                 xml.write('</annotation>')`
 ```
+# folder2coco.py
+将文件夹内容直接转为COCO格式。
